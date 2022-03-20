@@ -1,0 +1,29 @@
+h1{
+    color: rgb(221, 206, 206);
+    font-family: fantasy;
+    
+  }
+  
+  body{
+    background-color: rgb(202, 122, 25);
+  }
+  
+  h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  #background {
+    text-align: right;
+    background-color: white;
+    
+  }
+  span {
+    text-align: right;
+  }
+  ol {
+    text-align: right;
+  }
+  
+  li {
+    text-align: right;
+  }
